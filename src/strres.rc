@@ -1,0 +1,9 @@
+STRINGTABLE LOADONCALL MOVEABLE DISCARDABLE
+{
+  1,   "NkDib's Method(Normal)"
+  2,   "NkDib's Method(Fine)"
+  100, "Plug-in Filters for Dibas32v1.04 writen by M.Sakai"
+}
+
+
+
